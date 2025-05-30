@@ -321,6 +321,15 @@ img {
   color: #2e2f42;
 }
 
+.icons-top {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
 .ourportfolio {
   font-weight: 700;
   font-size: 36px;
