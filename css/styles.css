@@ -154,6 +154,8 @@ img {
 .main-business {
   padding-top: 120px;
   padding-bottom: 120px;
+}
+.rtt {
   display: flex;
   align-items: center;
   justify-content: center;
