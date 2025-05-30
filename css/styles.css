@@ -146,6 +146,9 @@ img {
     url(../images/people-office\ 1.jpg);
   max-width: 1440px;
   margin: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .main-business {
