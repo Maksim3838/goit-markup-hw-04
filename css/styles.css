@@ -374,12 +374,12 @@ img {
   transform: translateY(0%);
 }
 
-.Our-Portfolio {
+.our-portfolio {
   position: relative;
   overflow: hidden;
 }
 
-.Our-Portfolio-war {
+.our-portfolio-war {
   position: absolute;
   top: 0;
   font-size: 16px;
