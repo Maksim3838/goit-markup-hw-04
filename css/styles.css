@@ -377,6 +377,9 @@ img {
   position: relative;
   overflow: hidden;
 }
+.Our-Portfolio:hover {
+  transform: translateY(0%);
+}
 
 .Our-Portfolio-war {
   position: absolute;
