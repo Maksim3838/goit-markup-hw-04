@@ -479,3 +479,11 @@ img {
 .icons-svg {
   fill: #f4f4fd;
 }
+
+.features-item-text:hover {
+  background-color: #31d0aa;
+}
+
+.features-item-text:focus {
+  background-color: #31d0aa;
+}
