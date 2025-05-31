@@ -451,6 +451,7 @@ img {
 .container {
   display: flex;
   align-items: baseline;
+  margin-right: 120px;
 }
 
 .features-item-text {
