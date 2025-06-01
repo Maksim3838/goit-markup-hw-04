@@ -489,5 +489,8 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.container-ter {
   margin-right: 120px;
 }
