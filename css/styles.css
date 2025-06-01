@@ -462,13 +462,6 @@ img {
 .footer-icons {
   display: flex;
   gap: 16px;
-  width: 100%;
-  height: 100%;
-  background-color: #4d5ae5;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .icons-footer {
@@ -486,4 +479,14 @@ img {
 
 .features-item-text:focus {
   background-color: #31d0aa;
+}
+
+.icons-foot {
+  width: 100%;
+  height: 100%;
+  background-color: #4d5ae5;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
