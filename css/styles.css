@@ -236,8 +236,9 @@ img {
 }
 
 .container-mod {
-  padding: 32px 0;
-  text-align: center;
+padding: 32px 0px;
+text-align: center;
+
 }
 
 .features-item-text {
