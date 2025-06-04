@@ -472,12 +472,13 @@ font-size: 16px;
 
 .footer-pqw {
   font-family: 'Roboto', sans-serif;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #f4f4fd;
+  color: #FFFFFF
   max-width: 264px;
+  margin-bottom: 16px;
 }
 
 .container {
