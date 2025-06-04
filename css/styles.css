@@ -273,6 +273,10 @@ font-size: 16px;
   background: #f4f4fd;
 }
 
+.feat-section .container {
+  display: block;
+}
+
 .feat-section-tu {
   display: flex;
   gap: 24px;
@@ -281,6 +285,11 @@ font-size: 16px;
 .main-ourportfolio {
   padding-top: 120px;
   padding-bottom: 120px;
+}
+
+.main-ourportfolio .container{
+
+  display: block;
 }
 
 .ourportfolio {
