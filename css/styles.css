@@ -141,6 +141,8 @@ img {
   padding-bottom: 188px;
 }
 
+             /* section 2 */
+
 .hero {
   background-color: #2e2f42;
   max-width: 1440px;
@@ -162,7 +164,7 @@ letter-spacing: 0.02em;
   }
 
   .hero-title {
-  
+   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
